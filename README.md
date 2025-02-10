@@ -1,4 +1,4 @@
-# machine-learning-project
+# DATA MINING PROJECT
 Road Accident Predicting System
 
 Project Overview
